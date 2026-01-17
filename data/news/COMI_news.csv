@@ -1,0 +1,437 @@
+date,headline,sentiment
+2020-03-16,Company maintains stable operations,0.07829163254546856
+2020-03-19,Positive outlook driven by sector growth,0.46002655751878546
+2020-03-24,Company maintains stable operations,-0.0800146430806587
+2020-03-25,Earnings exceed market expectations,0.14498329808854052
+2020-03-30,Earnings disappoint amid economic pressure,-0.2211921303823366
+2020-03-31,Company faces short-term operational challenges,-0.21839549139808934
+2020-04-08,Company reports strong financial performance,0.5534026813669127
+2020-04-13,Company faces short-term operational challenges,-0.2808260309299514
+2020-04-14,Market concerns over declining margins,-0.6173428683067109
+2020-04-15,Business performance remains in line with forecasts,-0.020543478845018594
+2020-04-23,Company reports strong financial performance,0.11267279523829485
+2020-05-14,Company maintains stable operations,0.09196879807926012
+2020-05-18,Business performance remains in line with forecasts,-0.09782896342371318
+2020-05-21,Company faces short-term operational challenges,-0.17707753278480673
+2020-05-31,Market concerns over declining margins,-0.153309756971895
+2020-06-01,No major changes reported in latest update,0.025888795335543627
+2020-06-03,Company reports strong financial performance,0.11897987058083886
+2020-06-07,Business performance remains in line with forecasts,-0.0348383414557068
+2020-06-15,Earnings disappoint amid economic pressure,-0.18720760106665552
+2020-06-16,Company reports strong financial performance,0.19992542141747166
+2020-06-21,No major changes reported in latest update,-0.06052565121864667
+2020-06-24,Company reports strong financial performance,0.3193513375153582
+2020-06-25,Business performance remains in line with forecasts,-0.021458373030365893
+2020-06-29,Company faces short-term operational challenges,-0.2383921118419104
+2020-06-30,Business performance remains in line with forecasts,-0.038111665314259385
+2020-07-07,Earnings exceed market expectations,0.3117640749600975
+2020-07-22,Market concerns over declining margins,-0.11648974317785522
+2020-07-28,Positive outlook driven by sector growth,0.22729349957753625
+2020-07-29,Business performance remains in line with forecasts,-0.05937193802141323
+2020-08-06,Business performance remains in line with forecasts,0.07901185196891217
+2020-08-10,Market concerns over declining margins,-0.15469156521629468
+2020-08-12,Earnings exceed market expectations,0.23850858824087084
+2020-08-27,Company reports strong financial performance,0.12207798177330889
+2020-08-31,Positive outlook driven by sector growth,0.12277997094008697
+2020-09-01,Earnings exceed market expectations,0.10368610436383845
+2020-09-03,No major changes reported in latest update,0.05503967287258257
+2020-09-14,Company faces short-term operational challenges,-0.20103599940388003
+2020-09-15,Earnings disappoint amid economic pressure,-0.3785911832123242
+2020-09-16,Earnings exceed market expectations,0.12990509822711876
+2020-09-21,No major changes reported in latest update,-0.011328599857512327
+2020-09-24,Positive outlook driven by sector growth,0.10827868402615609
+2020-09-27,Market concerns over declining margins,-0.20664048724760456
+2020-10-05,Company maintains stable operations,-0.06305708079626485
+2020-10-06,Market concerns over declining margins,-0.23445786590846024
+2020-10-14,Earnings disappoint amid economic pressure,-0.30250390944113714
+2020-10-20,Earnings disappoint amid economic pressure,-0.1379958912294439
+2020-10-25,Company maintains stable operations,-0.0022995684235015967
+2020-10-27,Company maintains stable operations,-0.011700933938582327
+2020-10-28,Positive outlook driven by sector growth,0.22678660854031985
+2020-11-01,Positive outlook driven by sector growth,0.22928937030541563
+2020-11-02,Company reports strong financial performance,0.10513829901078817
+2020-11-04,Positive outlook driven by sector growth,0.33968623171774937
+2020-11-11,Business performance remains in line with forecasts,-0.05575871103638244
+2020-11-15,Company maintains stable operations,0.030688540043154515
+2020-11-17,No major changes reported in latest update,-0.0579481719834979
+2020-11-18,Market concerns over declining margins,-0.13195495759587667
+2020-11-23,No major changes reported in latest update,-0.09962956593488959
+2020-11-26,Company faces short-term operational challenges,-0.11140450190355305
+2020-11-29,Company reports strong financial performance,0.20021439618798237
+2020-12-01,Earnings disappoint amid economic pressure,-0.19422540673995306
+2020-12-02,Company faces short-term operational challenges,-0.16130778635565537
+2020-12-07,Company faces short-term operational challenges,-0.22969010523511368
+2020-12-08,Positive outlook driven by sector growth,0.10713906638965957
+2020-12-09,Company faces short-term operational challenges,-0.17094545320680066
+2020-12-10,Company faces short-term operational challenges,-0.24905486651707054
+2020-12-14,Positive outlook driven by sector growth,0.10932869459093231
+2020-12-16,Company reports strong financial performance,0.3429273799600797
+2020-12-20,Business performance remains in line with forecasts,-0.045986458000172786
+2020-12-21,Company maintains stable operations,-0.08871481350878058
+2020-12-22,No major changes reported in latest update,-0.07312856560076346
+2020-12-27,Company maintains stable operations,0.06622935386007225
+2020-12-28,Company reports strong financial performance,0.14173648664769306
+2020-12-31,Business performance remains in line with forecasts,0.03570788843010212
+2021-01-05,Company maintains stable operations,0.015898809940124575
+2021-01-20,Company reports strong financial performance,0.12687932956995937
+2021-01-24,Company faces short-term operational challenges,-0.16874297436099608
+2021-01-25,Market concerns over declining margins,-0.16126633492267994
+2021-01-26,Company maintains stable operations,0.007503385314761267
+2021-01-27,No major changes reported in latest update,-0.04714167595894156
+2021-02-01,Earnings disappoint amid economic pressure,-0.4010380351732686
+2021-02-02,Market concerns over declining margins,-0.32059304779439546
+2021-02-03,Earnings disappoint amid economic pressure,-0.23106378780117093
+2021-02-11,Company faces short-term operational challenges,-0.14700448109243003
+2021-02-15,Company maintains stable operations,-0.046859445605292455
+2021-02-16,Earnings disappoint amid economic pressure,-0.4951012532022345
+2021-02-17,Market concerns over declining margins,-0.2859055235046011
+2021-02-21,Company reports strong financial performance,0.12130171614837405
+2021-02-22,Positive outlook driven by sector growth,0.2815289688992589
+2021-02-28,Earnings disappoint amid economic pressure,-0.20876248040979933
+2021-03-17,Earnings disappoint amid economic pressure,-0.10209930537455818
+2021-03-25,Company reports strong financial performance,0.1529883622410398
+2021-04-05,No major changes reported in latest update,-0.0647165864761082
+2021-04-06,Positive outlook driven by sector growth,0.19292495655809727
+2021-04-08,Company maintains stable operations,-0.007462353097440656
+2021-04-11,No major changes reported in latest update,-0.04237285210846267
+2021-04-13,Company reports strong financial performance,0.11540271008261366
+2021-04-14,No major changes reported in latest update,0.09083727849140877
+2021-04-19,Market concerns over declining margins,-0.1259503318371396
+2021-04-25,Business performance remains in line with forecasts,-0.055472133099056554
+2021-04-27,No major changes reported in latest update,-0.012374642982897283
+2021-05-05,Positive outlook driven by sector growth,0.1505443182358417
+2021-05-09,Business performance remains in line with forecasts,-0.004285212131484431
+2021-05-23,Business performance remains in line with forecasts,0.062158761449365024
+2021-05-24,Company faces short-term operational challenges,-0.3001666795949143
+2021-05-27,Market concerns over declining margins,-0.1396878795787163
+2021-05-30,Earnings exceed market expectations,0.16751183872220196
+2021-06-03,Earnings disappoint amid economic pressure,-0.1514249229589885
+2021-06-22,Positive outlook driven by sector growth,0.2871813444829658
+2021-06-24,No major changes reported in latest update,-0.0752174760541817
+2021-06-27,Company maintains stable operations,0.0980236427440324
+2021-06-28,Company reports strong financial performance,0.10449472627130998
+2021-07-04,Positive outlook driven by sector growth,0.10675877537337805
+2021-07-06,Earnings disappoint amid economic pressure,-0.46207373572241517
+2021-07-07,No major changes reported in latest update,-0.07710576200181596
+2021-07-12,Company maintains stable operations,0.04260481348474814
+2021-07-14,No major changes reported in latest update,0.060774532988607674
+2021-07-18,Positive outlook driven by sector growth,0.31344875919372855
+2021-07-25,Positive outlook driven by sector growth,0.16692864727421583
+2021-07-26,Earnings disappoint amid economic pressure,-0.21828613832747465
+2021-08-01,Market concerns over declining margins,-0.38382859969624733
+2021-08-03,Business performance remains in line with forecasts,-0.04072277639941549
+2021-08-15,Positive outlook driven by sector growth,0.25079671549521415
+2021-08-16,Business performance remains in line with forecasts,0.0032211310237642114
+2021-08-17,Company maintains stable operations,-0.0884503235585184
+2021-08-30,Business performance remains in line with forecasts,0.04064829332609886
+2021-09-01,Company maintains stable operations,0.04037438162850824
+2021-09-02,Earnings disappoint amid economic pressure,-0.41274036768891537
+2021-09-09,Earnings disappoint amid economic pressure,-0.24581530513254413
+2021-09-19,Business performance remains in line with forecasts,-0.017156075828522785
+2021-09-26,Earnings exceed market expectations,0.1114204610725266
+2021-09-27,Earnings exceed market expectations,0.3290181438850219
+2021-09-29,Earnings disappoint amid economic pressure,-0.19953297446922277
+2021-09-30,Earnings disappoint amid economic pressure,-0.13420095868861154
+2021-10-04,Positive outlook driven by sector growth,0.2816282767940663
+2021-10-05,Business performance remains in line with forecasts,0.04111602501015551
+2021-10-12,Company faces short-term operational challenges,-0.11850673122406638
+2021-10-14,Earnings exceed market expectations,0.3070790132688677
+2021-10-17,Earnings exceed market expectations,0.3866886711508299
+2021-10-19,Company maintains stable operations,-0.024956416156748387
+2021-10-25,Positive outlook driven by sector growth,0.2688870199833895
+2021-11-01,Earnings exceed market expectations,0.3491688826676168
+2021-11-08,Earnings exceed market expectations,0.1046286169382053
+2021-11-09,Positive outlook driven by sector growth,0.19934377760938413
+2021-11-23,No major changes reported in latest update,0.07174975388055692
+2021-12-08,Earnings disappoint amid economic pressure,-0.26655170904372766
+2021-12-12,Earnings exceed market expectations,0.2945036418825795
+2021-12-13,Market concerns over declining margins,-0.15836481394080487
+2021-12-21,Earnings disappoint amid economic pressure,-0.21528284277938925
+2021-12-22,Company maintains stable operations,-0.07561971757883422
+2021-12-27,Company reports strong financial performance,0.15567955640829065
+2021-12-29,Earnings exceed market expectations,0.23607013405321922
+2021-12-30,Company maintains stable operations,0.07976652647486004
+2022-01-02,Company maintains stable operations,-0.09398833701912374
+2022-01-05,Company reports strong financial performance,0.2814687398316464
+2022-01-18,Earnings exceed market expectations,0.31335772574483645
+2022-01-20,Positive outlook driven by sector growth,0.25159954697134246
+2022-01-24,Market concerns over declining margins,-0.16666598724852885
+2022-01-25,Earnings disappoint amid economic pressure,-0.3124448395077168
+2022-02-09,Earnings exceed market expectations,0.11790350127079388
+2022-02-14,Positive outlook driven by sector growth,0.10224781217472736
+2022-02-24,Company faces short-term operational challenges,-0.3162717958444036
+2022-03-06,Earnings disappoint amid economic pressure,-0.600517911841027
+2022-03-07,Earnings disappoint amid economic pressure,-0.36015596888325274
+2022-03-08,Company reports strong financial performance,0.18935464423175818
+2022-03-09,Earnings disappoint amid economic pressure,-0.29683587756304486
+2022-03-17,Company maintains stable operations,0.005647632634996916
+2022-03-21,Positive outlook driven by sector growth,0.30603649481982736
+2022-03-29,Company reports strong financial performance,0.43997632986408486
+2022-04-03,Positive outlook driven by sector growth,0.4143996118067067
+2022-04-07,Market concerns over declining margins,-0.302021269729985
+2022-04-11,Earnings exceed market expectations,0.3555981031044867
+2022-04-19,No major changes reported in latest update,-0.0857166849216987
+2022-04-27,Market concerns over declining margins,-0.12450494088697726
+2022-05-08,Earnings exceed market expectations,0.36228638434468385
+2022-05-11,Earnings exceed market expectations,0.14878437405607192
+2022-05-12,Positive outlook driven by sector growth,0.10146924793677455
+2022-05-24,Business performance remains in line with forecasts,-0.05265932002243917
+2022-05-26,Positive outlook driven by sector growth,0.11877182166845664
+2022-05-30,Market concerns over declining margins,-0.2585051951179383
+2022-06-01,Company faces short-term operational challenges,-0.5825566217884526
+2022-06-02,Company faces short-term operational challenges,-0.552643914894406
+2022-06-14,Earnings disappoint amid economic pressure,-0.21682938392485185
+2022-06-15,Company maintains stable operations,0.07924015339009778
+2022-07-05,Market concerns over declining margins,-0.31119980775489425
+2022-07-21,Company maintains stable operations,0.09024805256739897
+2022-07-28,Earnings exceed market expectations,0.11934457622134023
+2022-08-01,Positive outlook driven by sector growth,0.1708814209811516
+2022-08-07,Positive outlook driven by sector growth,0.1153238041703203
+2022-08-10,Company maintains stable operations,-0.062036978673454105
+2022-08-14,Earnings disappoint amid economic pressure,-0.2769728848398131
+2022-08-15,Earnings disappoint amid economic pressure,-0.10168348031545688
+2022-08-16,Company reports strong financial performance,0.14358082471005768
+2022-08-25,No major changes reported in latest update,0.059143058760611475
+2022-08-29,Earnings disappoint amid economic pressure,-0.4032481877199098
+2022-08-30,Positive outlook driven by sector growth,0.16715122204001742
+2022-09-04,Positive outlook driven by sector growth,0.20100937307161718
+2022-09-05,No major changes reported in latest update,-0.020017559179192436
+2022-09-06,Company faces short-term operational challenges,-0.19166643995901014
+2022-09-08,Earnings exceed market expectations,0.33355489857057424
+2022-09-11,Market concerns over declining margins,-0.1991430834105914
+2022-09-13,Market concerns over declining margins,-0.3721688971011755
+2022-09-14,Company reports strong financial performance,0.12224977352277616
+2022-09-19,Company reports strong financial performance,0.1472737124870524
+2022-09-22,Company reports strong financial performance,0.26256423104933213
+2022-09-25,Business performance remains in line with forecasts,0.028830938787602817
+2022-09-28,Business performance remains in line with forecasts,-0.04162358537762682
+2022-10-02,Company faces short-term operational challenges,-0.26746954004036144
+2022-10-03,Company faces short-term operational challenges,-0.23516350908246028
+2022-10-24,Business performance remains in line with forecasts,-0.04140371801124046
+2022-11-01,Company maintains stable operations,0.033191799753603035
+2022-11-02,Earnings disappoint amid economic pressure,-0.17567276102590906
+2022-11-06,Business performance remains in line with forecasts,0.05619796131187453
+2022-11-14,Company faces short-term operational challenges,-0.1656087309184827
+2022-11-15,Earnings disappoint amid economic pressure,-0.2110772796426942
+2022-11-17,No major changes reported in latest update,0.0188962733535514
+2022-11-23,Business performance remains in line with forecasts,-0.09361074609316224
+2022-11-24,Earnings disappoint amid economic pressure,-0.11085158924289126
+2022-11-29,No major changes reported in latest update,0.01297704352365911
+2022-11-30,Positive outlook driven by sector growth,0.1784825193701218
+2022-12-07,Earnings exceed market expectations,0.11729030813114562
+2022-12-11,Company reports strong financial performance,0.4207825620910064
+2022-12-18,Market concerns over declining margins,-0.29201033014398525
+2022-12-26,Earnings disappoint amid economic pressure,-0.18421392902936837
+2022-12-27,Market concerns over declining margins,-0.35344597720349297
+2023-01-02,Earnings exceed market expectations,0.1734198046537524
+2023-01-04,Positive outlook driven by sector growth,0.3052296695324892
+2023-01-05,No major changes reported in latest update,0.06346461125316849
+2023-01-10,Market concerns over declining margins,-0.12808026931104252
+2023-01-18,Company maintains stable operations,-0.05180075286586566
+2023-01-19,Company reports strong financial performance,0.3038628851839815
+2023-01-22,Market concerns over declining margins,-0.318752496792148
+2023-01-24,Earnings disappoint amid economic pressure,-0.1122857330681333
+2023-01-31,Company faces short-term operational challenges,-0.23439883616281157
+2023-02-02,Company maintains stable operations,0.09730598683039192
+2023-02-07,Company reports strong financial performance,0.12023163522912855
+2023-02-14,Company faces short-term operational challenges,-0.1135144700504202
+2023-02-16,No major changes reported in latest update,0.08274313067084912
+2023-02-20,Market concerns over declining margins,-0.11450535259675404
+2023-02-23,Business performance remains in line with forecasts,0.07438167264674155
+2023-02-27,Market concerns over declining margins,-0.27029114441740837
+2023-02-28,Earnings disappoint amid economic pressure,-0.2816623017357539
+2023-03-06,Positive outlook driven by sector growth,0.1762347673241851
+2023-03-12,Earnings disappoint amid economic pressure,-0.5338247798882387
+2023-03-13,Earnings disappoint amid economic pressure,-0.33645187820936373
+2023-03-21,Earnings exceed market expectations,0.35455036103297943
+2023-03-26,Market concerns over declining margins,-0.17931403355629216
+2023-03-28,Company faces short-term operational challenges,-0.16715554686210668
+2023-04-05,Earnings disappoint amid economic pressure,-0.33067458499107244
+2023-04-26,Business performance remains in line with forecasts,0.04022557304727728
+2023-04-30,Market concerns over declining margins,-0.1313690126839143
+2023-05-02,Earnings exceed market expectations,0.15893735203617051
+2023-05-08,Earnings disappoint amid economic pressure,-0.3385037917807798
+2023-05-16,Earnings disappoint amid economic pressure,-0.14122469362539053
+2023-05-17,Company reports strong financial performance,0.16038457135838832
+2023-05-21,No major changes reported in latest update,-0.03440014859762864
+2023-05-23,Company faces short-term operational challenges,-0.12403598382033888
+2023-05-24,No major changes reported in latest update,-0.07426262422991209
+2023-05-25,Company faces short-term operational challenges,-0.24293040323981482
+2023-05-30,Earnings disappoint amid economic pressure,-0.18926071463520278
+2023-06-05,Positive outlook driven by sector growth,0.37468476299842723
+2023-06-06,No major changes reported in latest update,0.02749617661316324
+2023-06-11,Company faces short-term operational challenges,-0.23315045646000343
+2023-06-15,Company faces short-term operational challenges,-0.12208074155030509
+2023-06-19,Company maintains stable operations,-0.056211819282791786
+2023-06-20,Company maintains stable operations,0.02872154226384302
+2023-06-21,Positive outlook driven by sector growth,0.180370781401219
+2023-06-22,Company faces short-term operational challenges,-0.287032926126523
+2023-07-10,No major changes reported in latest update,-0.05999416671625968
+2023-07-18,Market concerns over declining margins,-0.3642207738800796
+2023-07-25,Company faces short-term operational challenges,-0.22507731219192303
+2023-07-30,Earnings disappoint amid economic pressure,-0.35452883189050066
+2023-08-03,Company faces short-term operational challenges,-0.24445482556911077
+2023-08-09,No major changes reported in latest update,0.08061483629258287
+2023-08-14,Company faces short-term operational challenges,-0.1818115630522586
+2023-08-20,Positive outlook driven by sector growth,0.13360243449680348
+2023-08-23,Company reports strong financial performance,0.3680495161385911
+2023-08-27,Earnings disappoint amid economic pressure,-0.17506786845659755
+2023-08-31,Company faces short-term operational challenges,-0.16434790178441566
+2023-09-04,No major changes reported in latest update,-0.0040878532514529485
+2023-09-06,Earnings exceed market expectations,0.32873460603544113
+2023-09-07,Company reports strong financial performance,0.15678299194868622
+2023-09-13,Earnings disappoint amid economic pressure,-0.4621785769300579
+2023-10-02,Company maintains stable operations,-0.02501240109077074
+2023-10-03,No major changes reported in latest update,0.013882683669528318
+2023-10-22,Earnings disappoint amid economic pressure,-0.41576768152352983
+2023-10-25,Company reports strong financial performance,0.1976734250066102
+2023-10-29,Company faces short-term operational challenges,-0.17751333744214573
+2023-11-01,Company maintains stable operations,0.0686549027386862
+2023-11-06,Company maintains stable operations,-0.014763958546747093
+2023-11-14,Company faces short-term operational challenges,-0.19504221329340687
+2023-11-23,Earnings exceed market expectations,0.5589993222965777
+2023-11-26,Market concerns over declining margins,-0.10186466894932306
+2023-12-04,No major changes reported in latest update,-0.08828479018445609
+2023-12-06,Business performance remains in line with forecasts,-0.0031624817447704068
+2023-12-11,Company maintains stable operations,0.08953717658332117
+2023-12-14,Business performance remains in line with forecasts,-0.09522002724270262
+2023-12-18,Company reports strong financial performance,0.19199896709404918
+2024-01-02,Earnings exceed market expectations,0.1608352238102778
+2024-01-04,Business performance remains in line with forecasts,-0.03418902491705818
+2024-01-14,Company maintains stable operations,-0.039505234875345435
+2024-01-23,Company faces short-term operational challenges,-0.2648932720905865
+2024-01-24,No major changes reported in latest update,0.09726308677942228
+2024-02-01,Company maintains stable operations,-0.05154484229130124
+2024-02-07,Earnings exceed market expectations,0.4161697133435712
+2024-02-18,Business performance remains in line with forecasts,-0.038872380773752956
+2024-02-19,No major changes reported in latest update,-0.007455430232299956
+2024-02-25,Company faces short-term operational challenges,-0.3466643883471031
+2024-02-27,No major changes reported in latest update,-0.027203408812212268
+2024-02-29,Business performance remains in line with forecasts,0.00284345115465872
+2024-03-03,No major changes reported in latest update,-0.0033208015825063053
+2024-03-04,Earnings exceed market expectations,0.23564523496756556
+2024-03-17,Earnings exceed market expectations,0.1052362734653114
+2024-03-19,Company maintains stable operations,-0.03769943154766214
+2024-03-20,Positive outlook driven by sector growth,0.12167595198951602
+2024-03-21,Business performance remains in line with forecasts,-0.004492743120273077
+2024-03-24,Business performance remains in line with forecasts,0.09287127902694693
+2024-03-26,Earnings disappoint amid economic pressure,-0.14268252561739042
+2024-03-27,No major changes reported in latest update,-0.07967414699200893
+2024-04-07,Earnings exceed market expectations,0.4042005353455762
+2024-04-16,Earnings disappoint amid economic pressure,-0.20203634626055927
+2024-04-23,Business performance remains in line with forecasts,-0.04139831011495493
+2024-04-29,Business performance remains in line with forecasts,0.048871632578388974
+2024-05-09,Positive outlook driven by sector growth,0.27612189771106194
+2024-05-13,Positive outlook driven by sector growth,0.10880199990005829
+2024-05-19,No major changes reported in latest update,0.04845866543835379
+2024-05-23,Company reports strong financial performance,0.12386539978915083
+2024-05-27,Business performance remains in line with forecasts,-0.057100355531184706
+2024-05-29,Earnings exceed market expectations,0.23395110725491958
+2024-06-04,Company faces short-term operational challenges,-0.37493006545922425
+2024-06-05,Market concerns over declining margins,-0.20174639274283682
+2024-06-09,Market concerns over declining margins,-0.17999701805161392
+2024-06-23,Company reports strong financial performance,0.34686730834741025
+2024-06-25,Positive outlook driven by sector growth,0.14354900542044827
+2024-06-26,Company maintains stable operations,0.0363612668338798
+2024-07-09,Company reports strong financial performance,0.1969546632709555
+2024-07-14,No major changes reported in latest update,0.0632283706599554
+2024-07-15,Positive outlook driven by sector growth,0.2669140532312029
+2024-07-17,Positive outlook driven by sector growth,0.20836190218352899
+2024-07-28,No major changes reported in latest update,-0.04817368989717639
+2024-07-29,Market concerns over declining margins,-0.2098469599742615
+2024-07-30,Earnings exceed market expectations,0.27385145550610496
+2024-07-31,No major changes reported in latest update,0.09797455402627159
+2024-08-01,Market concerns over declining margins,-0.459012512519244
+2024-08-05,Market concerns over declining margins,-0.1325959031364309
+2024-08-07,Business performance remains in line with forecasts,0.09311223008007657
+2024-08-11,Business performance remains in line with forecasts,0.0904500748426689
+2024-08-12,Positive outlook driven by sector growth,0.2927306874957599
+2024-08-13,Business performance remains in line with forecasts,-0.04450708502342143
+2024-08-18,Earnings disappoint amid economic pressure,-0.3367577085318107
+2024-08-21,Company maintains stable operations,0.04369547295379572
+2024-08-22,Earnings exceed market expectations,0.40906926919346753
+2024-08-25,No major changes reported in latest update,-0.0021662287444497094
+2024-08-27,Company maintains stable operations,-0.028467782617058037
+2024-09-03,Positive outlook driven by sector growth,0.41824309323374925
+2024-09-04,Company reports strong financial performance,0.11746022010534525
+2024-09-08,No major changes reported in latest update,0.04648988757965994
+2024-09-09,Positive outlook driven by sector growth,0.2561815200904739
+2024-09-10,Business performance remains in line with forecasts,0.057840498333721985
+2024-09-12,Market concerns over declining margins,-0.3044153577176262
+2024-09-22,Business performance remains in line with forecasts,-0.0894733458278151
+2024-09-24,Company reports strong financial performance,0.20242893357456168
+2024-09-26,Business performance remains in line with forecasts,0.023232705324972458
+2024-09-29,Positive outlook driven by sector growth,0.11457641219607463
+2024-10-07,Company maintains stable operations,0.04290474615152945
+2024-10-16,Positive outlook driven by sector growth,0.10038798949357401
+2024-10-31,Company maintains stable operations,-0.09773309371234239
+2024-11-04,Company faces short-term operational challenges,-0.4252290922211825
+2024-11-06,Company reports strong financial performance,0.3458595624888667
+2024-11-07,Business performance remains in line with forecasts,-0.08682392258213259
+2024-11-12,Market concerns over declining margins,-0.29832033248120704
+2024-11-13,Positive outlook driven by sector growth,0.22026057760726733
+2024-11-24,Business performance remains in line with forecasts,0.08181493019670856
+2024-11-26,Company faces short-term operational challenges,-0.1170823174721356
+2024-11-28,Positive outlook driven by sector growth,0.28532910434210146
+2024-12-01,No major changes reported in latest update,0.03666442493491772
+2024-12-03,Earnings exceed market expectations,0.28839949742505905
+2024-12-05,Business performance remains in line with forecasts,0.060927066556431486
+2024-12-10,Earnings disappoint amid economic pressure,-0.31482761677659543
+2024-12-12,No major changes reported in latest update,0.03641401232496343
+2024-12-16,Market concerns over declining margins,-0.27640876113977325
+2024-12-19,No major changes reported in latest update,0.020320144083852347
+2024-12-26,No major changes reported in latest update,-0.038553776613111455
+2024-12-30,Company faces short-term operational challenges,-0.16878492070955708
+2025-01-13,Company faces short-term operational challenges,-0.275427998196608
+2025-01-21,Company reports strong financial performance,0.16288838541922207
+2025-02-05,Business performance remains in line with forecasts,-0.09683559775049846
+2025-02-10,Market concerns over declining margins,-0.10972873707656591
+2025-02-19,Company reports strong financial performance,0.22663245171848398
+2025-03-02,Earnings exceed market expectations,0.3627884821583345
+2025-03-03,Company reports strong financial performance,0.6058644253579054
+2025-03-04,Positive outlook driven by sector growth,0.2396176592652351
+2025-03-09,Company maintains stable operations,-0.003953103056807683
+2025-03-11,No major changes reported in latest update,0.029212450694524203
+2025-04-16,No major changes reported in latest update,0.08771157390423666
+2025-04-17,Earnings exceed market expectations,0.500411134664824
+2025-04-22,Positive outlook driven by sector growth,0.2546431742710516
+2025-04-23,Positive outlook driven by sector growth,0.13508013246909198
+2025-04-28,Company maintains stable operations,-0.07421091295934115
+2025-04-29,Company maintains stable operations,-0.02275133301848238
+2025-05-11,Company faces short-term operational challenges,-0.264096766185721
+2025-05-14,Company reports strong financial performance,0.20333926777894296
+2025-05-18,Earnings disappoint amid economic pressure,-0.3169119110951339
+2025-05-19,Market concerns over declining margins,-0.14013567747952183
+2025-05-22,Earnings exceed market expectations,0.21194669934218702
+2025-05-26,Market concerns over declining margins,-0.3373777629053156
+2025-05-28,No major changes reported in latest update,0.02082831845828754
+2025-06-18,No major changes reported in latest update,0.04336879956521543
+2025-06-24,Company reports strong financial performance,0.13793269948644482
+2025-07-02,Earnings disappoint amid economic pressure,-0.15727908157078588
+2025-07-16,Company faces short-term operational challenges,-0.10812756063318246
+2025-07-17,Company reports strong financial performance,0.25509132714591126
+2025-07-28,Company reports strong financial performance,0.16449630461358744
+2025-08-03,Business performance remains in line with forecasts,-0.014947126925181384
+2025-08-12,Positive outlook driven by sector growth,0.39548547107356435
+2025-08-24,Company reports strong financial performance,0.1153263319387977
+2025-08-25,Company maintains stable operations,0.09786143212935484
+2025-09-02,Earnings exceed market expectations,0.2844480330661222
+2025-09-03,Business performance remains in line with forecasts,-0.013119397870507091
+2025-09-08,Company reports strong financial performance,0.28318710096628597
+2025-09-14,Company reports strong financial performance,0.11580613351944562
+2025-09-16,Earnings exceed market expectations,0.2913388366229693
+2025-09-23,Positive outlook driven by sector growth,0.13148174225425177
+2025-10-01,Earnings exceed market expectations,0.19663962036065882
+2025-10-08,Business performance remains in line with forecasts,-0.07830541254311793
+2025-11-05,Company reports strong financial performance,0.41242982237563586
+2025-11-16,No major changes reported in latest update,0.03513876875863945
+2025-11-18,Earnings exceed market expectations,0.2283390061131319
+2025-11-23,Business performance remains in line with forecasts,-0.03319976040996772
+2025-11-25,Company maintains stable operations,-0.014506313933599108
+2025-11-26,Company maintains stable operations,0.06211412376582168
+2025-12-03,Positive outlook driven by sector growth,0.14980626908042505
+2025-12-08,Company faces short-term operational challenges,-0.37663330189865396
+2025-12-23,Company reports strong financial performance,0.24221910866009783
+2025-12-24,Earnings disappoint amid economic pressure,-0.5403185778196041
+2025-12-25,Market concerns over declining margins,-0.2081697061112065
+2025-12-28,Market concerns over declining margins,-0.22721256003152218
