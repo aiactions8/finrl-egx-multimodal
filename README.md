@@ -46,17 +46,18 @@ Each stage is implemented in a dedicated Jupyter notebook.
 ---
 
 ## Project Structure
-finrl-egx-multimodal/
+data/
+├── raw/
+│   └── prices_only.csv
 │
-├── results/
-│ └── evaluation_metrics.csv
+├── processed/
+│   └── multimodal_features.csv
 │
-├── 01_Data_Collection_EGX.ipynb
-├── 02_Data_Preprocessing_EGX.ipynb
-├── 03_News_and_Sentiment_EGX.ipynb
-├── 04_FinRL_Environment_EGX.ipynb
-├── 05_PPO_Training_EGX_REVISED.ipynb
-└── 06_Evaluation_Results_EGX.ipynb
+├── sentiment/
+│   └── sentiment_scores.csv
+│
+└── README.md
+
 
 
 ---
